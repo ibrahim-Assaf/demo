@@ -1,14 +1,302 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "term-one": [
+    {
+      "id": 1,
+      "nameAr": " 1برمجة",
+      "nameEn": "Programming 1",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1P2HAA_H8G2kaum1ClxOWxeTqRAIbAwNc/view?usp=drive_link",
+          "countPage": 14,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 2",
+          "urlFile": "https://drive.google.com/file/d/1jbYEmBE5N7gccb9FvIkvdJsxC-QtLAgF/view?usp=drive_link",
+          "countPage": 11,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 3",
+          "urlFile": "https://drive.google.com/file/d/14EjKboL37XNXgHrI3HWCFn9iWhEdfYdB/view?usp=drive_link",
+          "countPage": 10,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 4",
+          "urlFile": "https://drive.google.com/file/d/1jOxqIJtNKZiUbEt5rgST6thDU8vMMgFX/view?usp=drive_link",
+          "countPage": 13,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 5",
+          "urlFile": "https://drive.google.com/file/d/1_54RxJ_tlM7-JrfkqNDbaVtyDyca2Qoi/view?usp=drive_link",
+          "countPage": 5,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 6",
+          "urlFile": "https://drive.google.com/file/d/14N_8KA3rxNI9W9rH2oGE4dCYBPwxso-g/view?usp=drive_link",
+          "countPage": 9,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 7",
+          "urlFile": "https://drive.google.com/file/d/1mT2-1UTG51M7jwNSmZktP6_CQSTu7Jgg/view?usp=drive_link",
+          "countPage": 9,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 8",
+          "urlFile": "https://drive.google.com/file/d/1eYm8poAeHJT_Uk874mDWABChA4IDyz8Z/view?usp=drive_link",
+          "countPage": 11,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 9",
+          "urlFile": "https://drive.google.com/file/d/15MZU-9tBj8SuKam3OFM7CBUpso8QenDV/view?usp=drive_link",
+          "countPage": 4,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 10",
+          "urlFile": "https://drive.google.com/file/d/1Vc0wDK9phpG7kBsppPNgYMKr9rL5D3zd/view?usp=drive_link",
+          "countPage": 4,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 11",
+          "urlFile": "https://drive.google.com/file/d/1jnMZGZxL6dCGMUxL8V9nKherAdq5BxCE/view?usp=drive_link",
+          "countPage": 4,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Passing arguments to functions",
+          "urlFile": "https://drive.google.com/file/d/1fHw6UoDaoQJdmikliQNlZJVvq6VLNI8e/view?usp=drive_link",
+          "countPage": 9,
+          "fileClass": "عملي"
+        },
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1pYgbfX_310uViIoAzVPFLeyWLZsAmBBp/view?usp=drive_link",
+          "countPage": 72,
+          "fileClass": "نظري"
+        },
+        {
+          "nameFile": "Part 2",
+          "urlFile": "https://drive.google.com/file/d/1TQOjw95JLbZqPqwatrKS0fSl58aGXC2S/view?usp=drive_link",
+          "countPage": 14,
+          "fileClass": "نظري"
+        }
+      ],
+      "tools": [
+        {
+          "name": "w3ch",
+          "urlToll": "https://github.com/"
+        }
+      ],
+      "references": [
+        {
+          "name": "file 1",
+          "urlFile": "https://github.com/",
+          "countPage": 22
+        },
+        {
+          "name": "file 2",
+          "urlFile": "https://github.com/",
+          "countPage": 22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nameAr": " فيزياء",
+      "nameEn": "Physics",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1Nz8DxcKdZ-acaTa2o0iflm9b6QThKpZp/view?usp=drive_link",
+          "countPage": 138,
+          "fileClass": "نظري"
+        },
+        {
+          "nameFile": "Summary",
+          "urlFile": "https://drive.google.com/file/d/1_xhzH6z7yBt4WXMt0wtsyoP0ODX_nEb2/view?usp=drive_link",
+          "countPage": 13,
+          "fileClass": "نظري"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nameAr": " تحليل 1",
+      "nameEn": "Analysis 1",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1kRtpTq3zhSmbhhdv2-gAJHkTHBS48TCe/view?usp=drive_link",
+          "countPage": 108,
+          "fileClass": "نظري"
+        },
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1aWDn4qQlP8JPuoNthG5NSryaPyg9XUTn/view?usp=drive_link",
+          "countPage": 67,
+          "fileClass": "عملي"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nameAr": " جبر خطي",
+      "nameEn": "Algebra",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/15JbtgEUw6Hg_YGS7X37O7teYM0bGrr_l/view?usp=drive_link",
+          "countPage": 213,
+          "fileClass": "نظري"
+        },
+        {
+          "nameFile": "Summary",
+          "urlFile": "https://drive.google.com/file/d/16-bgRQhEvY_o83_skzjs0cOcFIUeiloI/view?usp=drive_link",
+          "countPage": 60,
+          "fileClass": "نظري"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nameAr": "مبادئ حاسوب",
+      "nameEn": "Computer principles",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1zfnGYe3-XuFTV_g8ydMsWiV-hbp2-3X0/view?usp=drive_link",
+          "countPage": 187,
+          "fileClass": "نظري"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nameAr": "1 عربي",
+      "nameEn": "Arabic 1",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/11irfpHZqcRedsgcrr0GRjUKpR-Yo_uBg/view?usp=drive_link",
+          "countPage": 98,
+          "fileClass": "نظري"
+        }
+      ],
+      "CQ": [
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1Drmd84DvBzAYILUX25s39y6gemen_GEF/view?usp=drive_link",
+          "countPage": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nameAr": "1  لغة انكليزية",
+      "nameEn": "English 1",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "nameFile": "Part 1",
+          "urlFile": "https://drive.google.com/file/d/1HrAvWOeh_w3HpQ6h2Lh-sU7_GmDC2ZCr/view?usp=drive_link",
+          "countPage": 101,
+          "fileClass": "نظري"
+        }
+      ]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "term-two": [
+    {
+      "id": 1,
+      "nameAr": "2 برمجة",
+      "nameEn": "Programming2",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "name": "file 1",
+          "urlFile": "https://github.com/",
+          "countPage": 22,
+          "fileClass": "عملي"
+        },
+        {
+          "name": "file 2",
+          "urlFile": "https://github.com/",
+          "countPage": 22,
+          "fileClass": "عملي"
+        }
+      ],
+      "tools": [
+        {
+          "name": "w3ch",
+          "urlToll": "https://github.com/"
+        }
+      ],
+      "references": [
+        {
+          "name": "file 1",
+          "urlFile": "https://github.com/",
+          "countPage": 22
+        },
+        {
+          "name": "file 2",
+          "urlFile": "https://github.com/",
+          "countPage": 22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nameAr": "تحليل",
+      "nameEn": "analyses",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "name": "file 1",
+          "urlFile": "https://github.com/",
+          "countPage": 22,
+          "fileClass": "عملي"
+        },
+        {
+          "name": "file 2",
+          "urlFile": "https://github.com/",
+          "countPage": 22,
+          "fileClass": "عملي"
+        }
+      ],
+      "tools": [
+        {
+          "name": "w3ch",
+          "urlToll": "https://github.com/"
+        }
+      ],
+      "references": [
+        {
+          "name": "file 1",
+          "urlFile": "https://github.com/",
+          "countPage": 22
+        },
+        {
+          "name": "file 2",
+          "urlFile": "https://github.com/",
+          "countPage": 22
+        }
+      ]
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tests": []
 }
