@@ -300,6 +300,44 @@
           "countPage": 22
         }
       ]
+    },
+    {
+      "id": 3,
+      "nameAr": "إحتمالات وإحصاء",
+      "nameEn": "Probabilities and statistics",
+      "navBar": ["references", "courses", "tools"],
+      "courses": [
+        {
+          "name": "file 1",
+          "urlFile": "https://github.com/",
+          "countPage": 22,
+          "fileClass": "عملي"
+        },
+        {
+          "name": "file 2",
+          "urlFile": "https://github.com/",
+          "countPage": 22,
+          "fileClass": "عملي"
+        }
+      ],
+      "tools": [
+        {
+          "name": "w3ch",
+          "urlToll": "https://github.com/"
+        }
+      ],
+      "references": [
+        {
+          "name": "file 1",
+          "urlFile": "https://github.com/",
+          "countPage": 22
+        },
+        {
+          "name": "file 2",
+          "urlFile": "https://github.com/",
+          "countPage": 22
+        }
+      ]
     }
   ],
   "tests": []
